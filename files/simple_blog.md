@@ -1,3 +1,5 @@
+# 一个基于 Github 的极简博客系统——Simple
+
 ![一个基于 Github 的极简博客系统——Simple][1]
 
 Simple 是简单的静态博客生成器，基于 Github Pages，静态页面，完全在线操作，不需要服务器，只需一个 Github 账号即可。
@@ -19,6 +21,7 @@ Simple 需要 GitHub 账号，然后创建一个 username.github.io 的 project�
 以上。
 
 [在线编辑](http://www.wanjunhua.com/blog/simple/src/index.html)
+
 [查看博客](http://www.wanjunhua.top)
 
 
