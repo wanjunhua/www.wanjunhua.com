@@ -163,9 +163,9 @@
 版权所有·侵权必究
 
 
-  [1]: http://wanjunhua.com/img/blog/zhishijiushililiang-1.1.jpg
-  [2]: http://wanjunhua.com/img/blog/zhishijiushililiang-1.2.jpg
-  [3]: http://wanjunhua.com/img/blog/zhishijiushililiang-1.3.jpg
-  [4]: http://wanjunhua.com/img/blog/zhishijiushililiang-1.4.jpg
-  [5]: http://wanjunhua.com/img/blog/zhishijiushililiang-1.5.jpg
-  [6]: http://wanjunhua.com/img/blog/zhishijiushililiang-1.6.jpg
+  [1]: https://github.com/wanjunhua/www.wanjunhua.com/blob/master/files/img/blog/zhishijiushililiang-1.1.jpg
+  [2]: https://github.com/wanjunhua/www.wanjunhua.com/blob/master/files/img/blog/zhishijiushililiang-1.2.jpg
+  [3]: https://github.com/wanjunhua/www.wanjunhua.com/blob/master/files/img/blog/zhishijiushililiang-1.3.jpg
+  [4]: https://github.com/wanjunhua/www.wanjunhua.com/blob/master/files/img/blog/zhishijiushililiang-1.4.jpg
+  [5]: https://github.com/wanjunhua/www.wanjunhua.com/blob/master/files/img/blog/zhishijiushililiang-1.5.jpg
+  [6]: https://github.com/wanjunhua/www.wanjunhua.com/blob/master/files/img/blog/zhishijiushililiang-1.6.jpg
