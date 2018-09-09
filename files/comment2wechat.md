@@ -26,5 +26,5 @@
 [传送门][2]
 
 
-  [1]: http://wanjunhua.com/img/blog/wechatft.jpg
+  [1]: /img/blog/wechatft.jpg
   [2]: https://github.com/wanjunhua/Comment2Wechat
